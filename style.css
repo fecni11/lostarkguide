@@ -1,5 +1,5 @@
 body{
-    background-image: url(img/wp.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75));
     background-position: center;
     background-size: cover;
     width: 100%;
