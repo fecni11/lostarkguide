@@ -1,4 +1,4 @@
-.all{
+body{
     width: 100%;
     background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(img/wp.jpg);
     background-size: cover;
