@@ -1,6 +1,7 @@
 body{
-    width: 100%;
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(img/wp.jpg);
+    background: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(img/wp.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
-    background-position: center;
 }
