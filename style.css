@@ -1,6 +1,5 @@
 body{
     background-image: url(img/wp.jpg);
-    background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
 }
